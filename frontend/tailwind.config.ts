@@ -15,6 +15,7 @@ const config = {
     extend: {
       fontFamily: {
         logo: ["Cedarville Cursive"],
+        open_sans: ["Open Sans"],
       },
       colors: {
         border: "hsl(var(--border))",
